@@ -1,0 +1,33 @@
+{
+  "name": "usdt",
+  "logoURI": "https://s3.ax1x.com/2020/12/26/r4aivD.jpg",
+  "keywords": [
+      "defi",
+      "btct",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x51e1ccbea22d51c8e919e85908f6490838549ff5",
+      "name": "btct",
+      "symbol": "btct",
+      "decimals": 18,
+      "logoURI": "https://s3.ax1x.com/2020/12/26/r4aivD.jpg"
+      },
+	   {
+      "chainId": 1,
+      "address": "0x51e1ccbea22d51c8e919e85908f6490838549ff5",
+      "name": "btct",
+      "symbol": "btct",
+      "decimals": 18,
+      "logoURI": "https://s3.ax1x.com/2020/12/26/r4aivD.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
